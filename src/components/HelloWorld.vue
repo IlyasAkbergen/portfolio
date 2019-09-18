@@ -27,7 +27,16 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+      With Bootstrap!
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
   </div>
+
+
+
 </template>
 
 <script>
